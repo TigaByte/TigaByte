@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigabyte&label=Profile%20views&color=0e75b6&style=flat" alt="tigabyte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigabyte" alt="tigabyte" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tigabyte2" target="blank"><img src="https://img.shields.io/twitter/follow/tigabyte2?logo=twitter&style=for-the-badge" alt="tigabyte2" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
