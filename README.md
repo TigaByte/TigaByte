@@ -10,4 +10,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigabyte&show_icons=true&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigabyte&show_icons=true&locale=en&layout=compact" alt="tigabyte" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigabyte&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tigabyte" /></p>
