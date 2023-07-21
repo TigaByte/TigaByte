@@ -5,7 +5,7 @@
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
  <ul>
-        <li>🗓 I`m currently 16 years old </li>
+        <li>🗓 I`m currently 17 years old </li>
         <li>👨‍💻 Learning to code since 2019 </li>
         <li>🇩🇪/🇬🇧 Native german speaker with some experience in brithish english </li>
     </ul>
